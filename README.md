@@ -13,7 +13,7 @@ A voice-based AI assistant that processes voice input, generates contextual resp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/voice-ai-agent.git
+   git clone https://github.com/karnvishal/Voice-AI-Agent
    cd voice-ai-agent 
    ```
 
