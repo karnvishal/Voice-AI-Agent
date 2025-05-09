@@ -1,0 +1,15 @@
+Flask>=3.0.0
+openai==1.77.0
+openai-whisper
+python-dotenv
+langchain==0.3.25
+faiss-cpu==1.7.4
+pydub
+gunicorn
+python-magic
+tiktoken
+ffmpeg-python
+pypdf
+sounddevice
+scipy
+numpy
